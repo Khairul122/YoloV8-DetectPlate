@@ -1,0 +1,5 @@
+names:
+- plate_number
+nc: 1
+train: D:/JOKIAN/UNIMAL/Teknik Elektro UNIMAL/JIMLI/YOLO/dataset/images/train
+val: D:/JOKIAN/UNIMAL/Teknik Elektro UNIMAL/JIMLI/YOLO/dataset/images/val
